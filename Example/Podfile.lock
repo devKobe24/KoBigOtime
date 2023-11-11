@@ -1,0 +1,16 @@
+PODS:
+  - KoBigOtime (0.1.0)
+
+DEPENDENCIES:
+  - KoBigOtime (from `../`)
+
+EXTERNAL SOURCES:
+  KoBigOtime:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KoBigOtime: 37177b92c60472f293e6370ebe129eeb2b20af73
+
+PODFILE CHECKSUM: 7272a1206c1ac8e15692c7af0a3899020397a881
+
+COCOAPODS: 1.13.0

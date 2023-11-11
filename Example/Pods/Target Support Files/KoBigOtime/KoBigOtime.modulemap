@@ -1,0 +1,6 @@
+framework module KoBigOtime {
+  umbrella header "KoBigOtime-umbrella.h"
+
+  export *
+  module * { export * }
+}

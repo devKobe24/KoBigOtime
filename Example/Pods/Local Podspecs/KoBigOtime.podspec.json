@@ -1,0 +1,22 @@
+{
+  "name": "KoBigOtime",
+  "version": "0.1.0",
+  "summary": "A short description of KoBigOtime.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/devKobe24/KoBigOtime",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "devKobe24": "dev.skyachieve91@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/devKobe24/KoBigOtime.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "KoBigOtime/Classes/**/*"
+}
